@@ -1,0 +1,2 @@
+# bgchangerauto
+html,javascript
